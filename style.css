@@ -217,14 +217,14 @@ span {
 
 .container .skills-content .box {
   position: relative;
-  padding: 10px;
+  padding: 10px 20px;
   border: 2px solid #eaeaea;
   background-color: #DDDAE8;
   transition: all 0.4s;
   margin-bottom: 20px;
   cursor: pointer;
   color: #262335;
-  height: 125px;
+  height: 140px;
 }
 
 .container .skills-content .box:hover {
@@ -322,6 +322,15 @@ footer {
     right: 0;
   }
 
+  .container .skills-content .box {
+    height: 150px;
+    padding: 10px;
+  }
+
+  .box p {
+    font-size: 15px;
+  }
+
   .skills {
     height: auto;
     padding: 35px 5%;
@@ -335,4 +344,20 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  footer {
+    padding: 20px;
+  }
+
+  .footer-menu ul {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .footer-menu ul li {
+    margin: 10px 2px;
+  }
+
+  .copyright-text {
+    margin-top: 20px;
+  }
 }
