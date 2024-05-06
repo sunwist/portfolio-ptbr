@@ -1,4 +1,4 @@
-# Conheça meu portifólio (ainda em desenvolvimento)!
+# Conheça meu portifólio!
 
 ![image](https://github.com/sunwist/portifolio-ptbr/assets/104114717/55164243-9fdc-46d6-8194-d9fdb0367e70)
 
