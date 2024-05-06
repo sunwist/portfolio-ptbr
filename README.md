@@ -1,6 +1,6 @@
 # Conheça meu portifólio!
 
-> Meu portifólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional (ainda em desenvolvimento).
+> Meu portifólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional.
 
 <h4 align="center"><a href="#">Clique aqui para acessar o site</a></h4>
 
@@ -9,7 +9,7 @@
 - Home: Uma breve introdução
 - Sobre: Informações sobre a minha formação acadêmica
 - Projetos: [em desenvolvimento]
-- Habilidades: Linguagens e tecnologias recentemente utilizadas, nas quais possuo uma sólida base.
+- Habilidades: Linguagens e tecnologias recentemente utilizadas e nas quais possuo uma sólida base.
 
 ---
 
