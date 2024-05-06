@@ -1,8 +1,10 @@
-# Conheça meu portifólio
+# Conheça meu portifólio!
+
+![Captura de tela 2024-05-06 005459](https://github.com/sunwist/portifolio-ptbr/assets/104114717/a21402b9-6ddb-4fb5-9a94-a4057df695dd)
 
 > Meu portifólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional (ainda em desenvolvimento).
 
-<h4 align="center"><a href="#">Clique aqui para acessar o site</a></h4>
+<h4 align="center"><a href="https://sunwist.github.io/portifolio-ptbr/">Clique aqui para acessar o site</a></h4>
 
 ### Seções
 
