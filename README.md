@@ -1,8 +1,8 @@
-# Portifólio
+# Conheça meu portifólio (ainda em desenvolvimento)!
 
 ![image](https://github.com/sunwist/portifolio-ptbr/assets/104114717/55164243-9fdc-46d6-8194-d9fdb0367e70)
 
-> Meu portifólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional (ainda em desenvolvimento).
+> Meu portifólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional.
 
 <h4 align="center"><a href="https://sunwist.github.io/portifolio-ptbr">Clique aqui para acessar o site</a></h4>
 
@@ -11,7 +11,7 @@
 - Home: Uma breve introdução
 - Sobre: Informações sobre a minha formação acadêmica
 - Projetos: [em desenvolvimento]
-- Habilidades: Linguagens e tecnologias recentemente utilizadas, nas quais possuo uma sólida base.
+- Habilidades: Linguagens e tecnologias recentemente utilizadas e nas quais possuo uma sólida base.
 
 ---
 
