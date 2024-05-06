@@ -4,7 +4,7 @@
 
 > Meu portfólio hospedado no GitHub Pages com informações sobre meu desenvolvimento profissional.
 
-<h4 align="center"><a href="https://sunwist.github.io/portifolio-ptbr/">Clique aqui para acessar o site</a></h4>
+<h4 align="center"><a href="https://sunwist.github.io/portfolio-ptbr/">Clique aqui para acessar o site</a></h4>
 
 ### Seções
 
