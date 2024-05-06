@@ -2,7 +2,7 @@
 
 ![image](https://github.com/sunwist/portfolio-ptbr/assets/104114717/61b50e0f-546c-4a62-82de-f3f1dffcfa3a)
 
-> Meu portfólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional (ainda em desenvolvimento).
+> Meu portfólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional.
 
 <h4 align="center"><a href="https://sunwist.github.io/portifolio-ptbr/">Clique aqui para acessar o site</a></h4>
 
