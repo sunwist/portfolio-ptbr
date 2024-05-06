@@ -1,6 +1,4 @@
-# Portifólio
-
-![image](https://github.com/sunwist/portifolio-ptbr/assets/104114717/55164243-9fdc-46d6-8194-d9fdb0367e70)
+# Conheça meu portfólio!
 
 > Meu portifólio hospedado no GitHub Pages com informações sobre meu desevolvimento profissional (ainda em desenvolvimento).
 
